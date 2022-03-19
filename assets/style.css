@@ -1,0 +1,52 @@
+div {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    padding: 30px;
+    background-color: black;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.664);
+    background-image: url("./images/Pink-Floyd-prism.jpeg");
+    background-repeat: repeat-y;
+    background-position-x: right;
+    margin-right: 555px;
+    color: whitesmoke;
+    
+}
+
+.fuzzy {
+    color: black;
+    text-shadow: 0 0 10px whitesmoke;
+}
+
+#bricks {
+    background-image: url("./images/PinkFloydWallCoverOriginalNoText.jpeg");
+    color: black;
+    text-align: right;
+    border-right: 4px solid whitesmoke;
+}
+
+#header {
+    background-image: url("./images/waiting-for-the-worms-9.jpeg");
+    border-right: 4px solid whitesmoke;
+}
+
+h1, h2 {
+    background-color: rgba(146, 16, 16, 0.8);
+    text-decoration: double overline black;
+    text-align: right;   
+}
+
+#history {
+    background-color: rgb(75, 0, 130, 0.3);
+    border-right: 4px solid whitesmoke;
+       
+    
+}
+#intro {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(146, 16, 16, 0.7);
+    
+    
+}
